@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloJunior65&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## Linguagem de programação, Ferramentas e Tecnologias
+## Linguagem de programação, Ferramentas e Tecnologias:
 <div align="center">
   <!-- Linguagem de programação -->
   <a href="https://www.python.org" target="_blank">
