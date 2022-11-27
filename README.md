@@ -110,4 +110,4 @@
   </a>
 </div>
 <img align="left" width="700px" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/PauloJunior65/PauloJunior65/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-<img align="right" width="250px" title="octocat" style="margin-top:-20px" src="octocat.png">
+<img align="right" width="200px" title="octocat" style="margin-top:-20px" src="octocat.png">
