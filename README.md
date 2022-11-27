@@ -55,6 +55,9 @@
   <a href="https://flask.palletsprojects.com" target="_blank">
   <img title="flask" alt="PauloJunior65-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   </a>
+  <a href="https://fastapi.tiangolo.com" target="_blank">
+  <img title="fastapi" alt="PauloJunior65-fastapi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  </a>
   <a href="https://getbootstrap.com" target="_blank">
   <img title="bootstrap" alt="PauloJunior65-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </a>
