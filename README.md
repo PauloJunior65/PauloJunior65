@@ -109,5 +109,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-<img align="left" width="80%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/PauloJunior65/PauloJunior65/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-<img align="right" width="20%" title="octocat" src="octocat.png">
+<div>
+<img width="80%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/PauloJunior65/PauloJunior65/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+<img width="20%" title="octocat" src="octocat.png">
+</div>
