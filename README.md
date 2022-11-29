@@ -18,9 +18,11 @@
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp" target="_blank">
   <img title="csharp" alt="PauloJunior65-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   </a>
+  <!--
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img title="c++" alt="PauloJunior65-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   </a>
+  -->
   <a href="https://www.java.com" target="_blank">
   <img title="java" alt="PauloJunior65-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
@@ -43,9 +45,11 @@
   <a href="https://vuejs.org" target="_blank">
   <img title="vue.js" alt="PauloJunior65-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   </a>
+  <!--
   <a href="https://pt-br.reactjs.org" target="_blank">
   <img title="react"  alt="PauloJunior65-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
+  -->
   <a href="https://flutter.dev" target="_blank">
   <img title="flutter" alt="PauloJunior65-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   </a>
@@ -61,9 +65,11 @@
   <a href="https://getbootstrap.com" target="_blank">
   <img title="bootstrap" alt="PauloJunior65-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </a>
+  <!--
   <a href="https://tailwindcss.com" target="_blank">
   <img title="tailwindcss" alt="PauloJunior65-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   </a>
+  -->
   <a href="https://laravel.com" target="_blank">
   <img title="Laravel" alt="PauloJunior65-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   </a>
