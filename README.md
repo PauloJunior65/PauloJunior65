@@ -15,14 +15,9 @@
   <a href="https://dart.dev" target="_blank">
   <img title="dart" alt="PauloJunior65-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp" target="_blank">
-  <img title="csharp" alt="PauloJunior65-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  </a>
-  <!--
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img title="c++" alt="PauloJunior65-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   </a>
-  -->
   <a href="https://www.java.com" target="_blank">
   <img title="java" alt="PauloJunior65-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
