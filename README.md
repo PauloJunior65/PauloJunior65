@@ -1,4 +1,4 @@
-# Oiii eu sou a Paulo Oliveira, desenvolvedor  full stack na parte web e mobile
+# Oiii eu sou Paulo Oliveira, desenvolvedor  full stack na parte web e mobile
 ## Bem vindo ao meu perfil GitHub 👋
 <div align="center">
   <a href="https://github.com/PauloJunior65">
