@@ -15,8 +15,8 @@
   <a href="https://dart.dev" target="_blank">
   <img title="dart" alt="PauloJunior65-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   </a>
-  <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img title="c" alt="PauloJunior65-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank">
+  <img title="c" alt="PauloJunior65-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </a>
   <a href="https://www.java.com" target="_blank">
   <img title="java" alt="PauloJunior65-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
