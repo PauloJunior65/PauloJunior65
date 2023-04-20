@@ -119,3 +119,5 @@
 </div>
   
 ![Visitor Count](https://profile-counter.glitch.me/PauloJunior65/count.svg)
+  
+  ![](https://komarev.com/ghpvc/?username=PauloJuniore&color=green)
