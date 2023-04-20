@@ -118,6 +118,4 @@
 <img width="20%" title="octocat" src="octocat.png">
 </div>
   
-![Visitor Count](https://profile-counter.glitch.me/PauloJunior65/count.svg)
-  
-  ![](https://komarev.com/ghpvc/?username=PauloJuniore&color=green)
+![Visitor Count](https://komarev.com/ghpvc/?username=PauloJuniore&color=green&label=Visualiza%C3%A7%C3%B5es)
