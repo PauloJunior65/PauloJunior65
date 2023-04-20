@@ -117,3 +117,5 @@
 <img width="75%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/PauloJunior65/PauloJunior65/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 <img width="20%" title="octocat" src="octocat.png">
 </div>
+  
+![Visitor Count](https://profile-counter.glitch.me/PauloJunior65/count.svg)
