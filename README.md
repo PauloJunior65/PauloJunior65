@@ -11,19 +11,19 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Bacharel em Ciência da Computação** pela Universidade Paulista (UNIP) e **Mestre em Engenharia, Gestão de Processos, Sistemas e Ambiental** pelo Instituto de Tecnologia e Educação Galileo da Amazônia (ITEGAM).
+🎓 **Desenvolvedor Full Stack** com formação em Ciência da Computação (UNIP) e Mestrado em Engenharia de Processos (ITEGAM).
 
-Tenho ampla experiência no desenvolvimento de soluções web e mobile, atuando desde a concepção e desenvolvimento de software até a otimização de processos e implementação de soluções tecnológicas inovadoras. Minha trajetória inclui a modelagem de sistemas inteligentes e a criação de protótipos funcionais que transformam desafios em oportunidades.
+Especializado em desenvolvimento web/mobile, inteligência artificial e automação de processos. Experiência prática em arquitetura de sistemas, otimização de soluções e implementação de tecnologias inovadoras.
 
-Sou entusiasta de **soluções open-source**, **automação**, **DevOps** e **Machine Learning**, buscando sempre inovação e eficiência em meus projetos.
+Apaixonado por **open-source**, **DevOps** e **Machine Learning** — transformando desafios técnicos em oportunidades de impacto.
 
 ---
 
 ## 🚀 Habilidades
 
 ### 🖥️ Desenvolvimento
-- **Back-end**: Python (**Django, Flask, FastAPI**), PHP (**Laravel**), Java
-- **Front-end**: JavaScript (**Vue.js, React.js**), HTML, CSS
+- **Back-end**: Python (**Django, Flask, FastAPI**), PHP (**Laravel**), Node.js (**Express.js**)
+- **Front-end**: JavaScript (**Vue.js, Nuxt.js, React.js, Next.js**), HTML, CSS
 - **Mobile**: Flutter
 
 ### 🗄️ Banco de Dados
@@ -42,21 +42,56 @@ Sou entusiasta de **soluções open-source**, **automação**, **DevOps** e **Ma
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Carreira Profissional
+
+### **🔹 Desenvolvedor de Software (Pleno) - Wasion Group Limited**
+📅 **abr/2025 - Presente**
+
+Desenvolvimento e manutenção de soluções tecnológicas de alto desempenho:
+- ✅ **Desenvolvimento de Software** – Criação de aplicações com linguagens e frameworks modernos
+- ✅ **Integração de Sistemas** – Design e implementação de APIs RESTful e serviços
+- ✅ **Otimização** – Manutenção contínua, correção de bugs e melhorias de desempenho
 
 ### **🔹 Analista de Sistemas - Wasion Group Limited**
-📅 **fev/2024 - Presente** 
+📅 **fev/2024 - abr/2025**
 
-- Desenvolvimento e otimização de sistemas.
-- Testes funcionais e diagnóstico de falhas.
-- Implementação de novas funcionalidades e segurança.
+Garantia de qualidade e eficiência dos sistemas corporativos:
+- ✅ **Testes Funcionais** – Validação de usabilidade, desempenho e conformidade
+- ✅ **Suporte Técnico** – Diagnóstico e resolução ágil de falhas
+- ✅ **Otimização de Sistemas** – Análise e proposição de melhorias de escalabilidade e segurança
+- ✅ **Desenvolvimento de Funcionalidades** – Implementação de soluções alinhadas ao negócio
 
 ### **🔹 Desenvolvedor Full Stack & Pesquisador de IA - ITEGAM**
 📅 **jan/2020 - jan/2024**
 
-- Desenvolvimento de sistemas web e embarcados.
-- Pesquisa aplicada em **Inteligência Artificial** e **Otimização de Processos**.
-- Publicação de artigos científicos e capítulos de livros.
+Pesquisa aplicada e desenvolvimento tecnológico no ITEGAM:
+- ✅ **Pesquisa & Desenvolvimento** – Projetos de inovação em tecnologias emergentes
+- ✅ **Sistemas Web e Embarcados** – Arquitetura e desenvolvimento de soluções escaláveis
+- ✅ **Validação e Testes** – Revisão de código e testes de software
+- ✅ **Produção Científica** – 16 artigos publicados e 4 capítulos de livros
+- ✅ **Infraestrutura** – Suporte técnico e gerenciamento de sistemas
+
+### **🔹 Estagiário de Desenvolvimento - ITEGAM**
+📅 **jan/2018 - dez/2019**
+
+Desenvolvimento de soluções web e desktop em projetos institucionais:
+- ✅ **Desenvolvimento Web** – Laravel, PHP e portal institucional
+- ✅ **Aplicações Desktop** – Java com lógica de negócios complexa
+- ✅ **Manutenção e Suporte** – Melhorias contínuas de usabilidade
+
+---
+
+## Formações Acadêmicas
+
+### 🎓 Mestrado em Engenharia de Processos - ITEGAM
+📅 **fev/2020 - jan/2021**
+- Dissertação: "Modelo Híbrido com Redes Neurais Artificiais e Algoritmos Evolucionários para Otimização do Consumo de Combustível em Embarcações com Motor Diesel"
+- Principais disciplinas: Redes Neurais, Algoritmos de Otimização, Inteligência Artificial
+
+### 🎓 Bacharelado em Ciência da Computação - UNIP
+📅 **fev/2016 - dez/2019**
+- Principais disciplinas: Programação, Estruturas de Dados, Banco de Dados, Engenharia de Software
+- Trabalho de Conclusão: Desenvolvimento de Sistema Web para Gestão de Projetos
 
 ---
 
@@ -71,12 +106,6 @@ Tenho **16 artigos científicos publicados** e **4 capítulos de livros** em **R
 ## 🌐 Conecte-se comigo
 
 <div>
-  <a href="https://instagram.com/PauloJunior065" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/Xr5k2np5" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
   <a href="mailto:paulojunior0605@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
